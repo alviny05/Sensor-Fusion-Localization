@@ -70,19 +70,6 @@ Another potential way to correct this noise would be to increase the frequency a
 - [Link to video technical presentation](https://youtu.be/9qwb9Yu2erA).
 - [Link to video demo](https://youtu.be/NPXk-dmznB8).
 
-### Self-Assessment 
-
-| Objective Criterion | Rating | Max Value  | 
-|---------------------------------------------|:-----------:|:---------:|
-| Objective One     |  1  |  1     | 
-| Objective Two     |  1  |  1     | 
-| Objective Three   |  1  |  1     | 
-| Objective Four    |  1  |  1     | 
-| Objective Five    |  1  |  1     | 
-| Objective Six     |  1  |  1     | 
-| Objective Seven   |  1  |  1     | 
-
-
 
 ### AI and Open Source Code Assertions
 
