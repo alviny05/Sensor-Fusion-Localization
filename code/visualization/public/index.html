@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+  <style>
+    body { display: flex; flex-direction: column; align-items: center; background: #f0f0f0; }
+    #canvas-container { display: flex; gap: 20px; margin-top: 20px; }
+    .display-box { font-family: monospace; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  </style>
+</head>
+<body>
+
+  <div id="canvas-container">
+    <div id="sketch-3d"></div>
+    <div id="sketch-graph"></div>
+  </div>
+
+  <div class="display-box">
+    <div id="positionDisplay"></div>
+    <div id="acceleraDisplay"></div>
+  </div>
+
+  <script src="visuals.js"></script>
+</body>
+</html>
